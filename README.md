@@ -13,7 +13,7 @@ This program calculates area of the figure bounded by curves
 4. Фактические параметры вызова тестируемых функций задаются в командной строке; параметры функционального типа задаются по номеру соответствующей функции.
 5. Сборка программы должна осуществляться при помощи утилиты make.
 
-                                                  Discription in English
+                                                  Description in English
 
 With a given accuracy calculate the area of a figure bounded by three curves, the equations of which are: y = f1(x), y = f2(x) и y = f3(x).
 
